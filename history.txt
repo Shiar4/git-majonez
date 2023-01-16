@@ -1,0 +1,130 @@
+ 1865  mkdir git-majonez
+ 1866  ls
+ 1867  cd git-majonez
+ 1868  man git
+ 1869  git init git-zadanie
+ 1870  git status
+ 1871  la
+ 1872  la -a
+ 1873  la
+ 1874  la ls
+ 1875  la -ls
+ 1876  vim main.cpp
+ 1877  cat main.cpp
+ 1878  vim main.cpp
+ 1879  git add main.cpp
+ 1880  git status
+ 1881  ls
+ 1882  mv main.cpp git-zadanie
+ 1883  ls
+ 1884  cd git-zadanie
+ 1885  ls
+ 1886  git status
+ 1887  git add main.cpp
+ 1888  git status
+ 1889  git commit -m"Initial commit"
+ 1890  git status
+ 1891  git log
+ 1892  vim main.cpp
+ 1893  git status
+ 1894  git diff
+ 1895  git status
+ 1896  git add main.cpp
+ 1897  git commit -m"Farewell changed"
+ 1898  git status
+ 1899  git log
+ 1900  git show
+ 1901  git branch
+ 1902  git branch -a
+ 1903  git remote add origin https://github.com/Shiar4/git-majonez.git
+ 1904  git a
+ 1905  git branch
+ 1906  git branch -a
+ 1907  git branch
+ 1908  git branch -a
+ 1909  git -v
+ 1910  git repo -v
+ 1911  git remote -v
+ 1912  git push -u origin master
+ 1913  git branch cs
+ 1914  git branch
+ 1915  git log
+ 1916  git checkout cs
+ 1917  git log
+ 1918  git branch
+ 1919  git log
+ 1920  git reset c8c6dbb81ca3932050c018500a8af19c454072f2
+ 1921  git status
+ 1922  git add main.cpp
+ 1923  git status
+ 1924  git log
+ 1925  git branch main
+ 1926  git log
+ 1927  git branch
+ 1928  git branch -d main
+ 1929  git branch
+ 1930  git branch master
+ 1931  git log
+ 1932  git branch
+ 1933  git checkout master
+ 1934  git branch
+ 1935  git log
+ 1936  git checkout cs
+ 1937  git log
+ 1938  git diff
+ 1939  git status
+ 1940  git branch
+ 1941  vim main.cpp
+ 1942  git status
+ 1943  git diff
+ 1944  git add main.cpp
+ 1945  git log
+ 1946  git status
+ 1947  git commit -m"Greetings"
+ 1948  git status
+ 1949  git log
+ 1950  git diff
+ 1951  git show
+ 1952  git branch
+ 1953  git push origin cs
+ 1954  git branch
+ 1955  git status
+ 1956  git remote -v
+ 1957  git checkout master
+ 1958  git branch
+ 1959  git checkout
+ 1960  git merge cs
+ 1961  git status
+ 1962  vim main.cpp
+ 1963  git status
+ 1964  git add main.cpp
+ 1965  git status
+ 1966  git commit -m"Merge branch 'cs'"
+ 1967  git log
+ 1968  man git log
+ 1969  git log --follow
+ 1970  git log --pretty=oneline
+ 1971  git log --pretty=raw
+ 1972  git log --pretty
+ 1973  git log --pretty=oneline graph
+ 1974  git log --pretty=oneline --graph
+ 1975  history
+ 1976  man history
+ 1977  man history 5
+ 1978  history 5
+ 1979  history 1865
+ 1980  history 115
+ 1981  history 114
+ 1982  history 117
+ 1983  history 116
+ 1984  history 118
+ 1985  history 119 >history.txt
+ 1986  ls
+ 1987  cat history.txt 
+ 1988  rm history.txt
+ 1989  history 121
+ 1990  125
+ 1991  126
+ 1992  history 127
+ 1993  history 129
+ 1994  history 130 > history.txt
